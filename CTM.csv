@@ -1,0 +1,31 @@
+idno,treat,mother_age,educ_cat,sescat3,child_sex,weight6,length6,hgb6,hgb18
+SUB101,Basal diet,34,Secondary (grades 8-12),Low,Female,5.82,70.5,123,137
+SUB102,Basal diet,25,Primary (grades 1-7),Low,Male,7.3,59.0,130,134
+SUB103,Fortified diet,33,Secondary (grades 8-12),High,Male,5.76,61.5,101,103
+SUB104,Basal diet,33,Secondary (grades 8-12),High,Female,8.31,67.7,98,120
+SUB105,Basal diet,41,Primary (grades 1-7),High,Female,8.33,61.1,129,103
+SUB106,Basal diet,30,Secondary (grades 8-12),Middle,Male,5.98,59.9,95,103
+SUB107,Basal diet,23,None,High,Female,7.26,71.6,100,137
+SUB108,Basal diet,36,Primary (grades 1-7),High,Female,7.53,66.3,110,130
+SUB109,Fortified diet,39,Primary (grades 1-7),Middle,Male,6.48,64.9,105,132
+SUB110,Basal diet,25,Primary (grades 1-7),High,Female,8.73,69.4,121,133
+SUB111,Basal diet,34,College/univ,Middle,Male,7.07,69.7,126,110
+SUB112,Basal diet,24,College/univ,Middle,Female,6.28,60.8,125,103
+SUB113,Basal diet,39,Secondary (grades 8-12),Low,Male,7.5,59.4,108,132
+SUB114,Basal diet,31,Primary (grades 1-7),Low,Male,8.2,64.3,120,105
+SUB115,Basal diet,42,Secondary (grades 8-12),High,Female,6.24,64.1,98,111
+SUB116,Basal diet,41,None,Middle,Male,6.65,64.8,105,104
+SUB117,Fortified diet,33,Primary (grades 1-7),Low,Male,9.18,68.6,119,138
+SUB118,Basal diet,40,None,Low,Female,7.9,67.8,95,104
+SUB119,Fortified diet,28,Secondary (grades 8-12),Low,Male,7.12,72.3,119,115
+SUB120,Fortified diet,24,College/univ,Low,Male,7.42,59.4,111,125
+SUB121,Basal diet,23,Secondary (grades 8-12),High,Female,5.95,63.8,124,107
+SUB122,Basal diet,29,None,Low,Female,6.33,62.9,113,136
+SUB123,Fortified diet,31,Primary (grades 1-7),High,Male,6.75,70.5,122,115
+SUB124,Fortified diet,24,Secondary (grades 8-12),Middle,Male,7.68,61.6,130,137
+SUB125,Fortified diet,29,Primary (grades 1-7),High,Female,6.35,60.8,126,138
+SUB126,Basal diet,25,College/univ,Low,Female,6.31,64.5,104,102
+SUB127,Basal diet,34,College/univ,Middle,Male,5.76,64.1,107,139
+SUB128,Fortified diet,30,College/univ,Middle,Male,7.84,62.0,113,105
+SUB129,Basal diet,36,Primary (grades 1-7),High,Male,6.35,61.6,108,126
+SUB130,Basal diet,42,Secondary (grades 8-12),Middle,Male,8.85,71.4,98,142
